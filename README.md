@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Sah</h1>
-<h3 align="center">A passionate DevOps Engineer based in Melbourne, Australia </h3>
+<h2 align="center">A passionate DevOps Engineer based in Melbourne, Australia </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar1983" alt="deepakkumar1983" /></a> </p>
 
 - 🔭 I’m currently working as **Cloud DevOps Engineer & building CI/CD Pipelines**
 
