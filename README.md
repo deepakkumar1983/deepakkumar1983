@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Cloud DevOps Engineer & building CI/CD Pipelines**
 
-- 🌱 I’m currently learning **AWS CI/CD pipeline end-to-end flow. Kubernetes and Terraform **
+- 🌱 I’m currently learning AWS CI/CD pipeline end-to-end flow. Kubernetes and Terraform.
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
